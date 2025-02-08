@@ -19,10 +19,10 @@ const fontOptions = {
 };
 
 const params = {
-  fontName: "Verdana",
+  fontName: "Georgia",
   isBold: false,
   fontSize: 80,
-  text: "fluid",
+  text: "Te amo Josselin",
   pointerSize: null,
   color: { r: 1, g: 0.0, b: 0.5 },
 };
