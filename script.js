@@ -24,7 +24,7 @@ const params = {
   fontSize: 80,
   text: "Te amo Josselin",
   pointerSize: null,
-  color: { r: 1, g: 0.0, b: 0.5 },
+  color: { r: 0.882, g: 0.0, b: 1.0 },
 };
 
 const pointer = {
