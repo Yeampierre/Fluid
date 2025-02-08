@@ -406,7 +406,7 @@ function render(t) {
 }
 
 function resizeCanvas() {
-  params.pointerSize = 8 / window.innerHeight;
+  params.pointerSize = 1 / window.innerHeight;
   canvasEl.width = textureEl.width = window.innerWidth;
   canvasEl.height = textureEl.height = window.innerHeight;
   initFBOs();
