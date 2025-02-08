@@ -20,7 +20,7 @@ const fontOptions = {
 
 const params = {
   fontName: "Georgia",
-  isBold: false,
+  isBold: true,
   fontSize: 80,
   text: "Te amo Josselin",
   pointerSize: null,
